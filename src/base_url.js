@@ -1,0 +1,1 @@
+export const baseUrl = "https://people-backend-kale-bl9l.onrender.com"
